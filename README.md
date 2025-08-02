@@ -54,8 +54,8 @@ mvn spring-boot:run
 
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/todos
-spring.datasource.username=root
-spring.datasource.password=yourpassword
+spring.datasource.username=username
+spring.datasource.password=dummypassword
 ```
 
 ---
